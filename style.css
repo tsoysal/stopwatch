@@ -1,0 +1,22 @@
+body {
+    background-color: brown;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 50vh;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+    background-color: transparent;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border: 2px solid black;
+}
